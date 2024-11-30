@@ -40,7 +40,7 @@ The project is modular and includes the following key components:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/xoity/Inventory-Management-System.git
+   git clone https://github.com/xoity/inventory-managemnt-system.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
